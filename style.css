@@ -1,0 +1,50 @@
+body{
+    margin-bottom: 100px;
+    background-color: #18181b;
+    color: #f4f4f5;}
+.titulo{
+    text-align: center;
+    font-size: 50px;
+}
+.introduccion{
+    margin: 20px;
+    font-size: 20px;
+}
+.introduccion2{
+    display: flex;
+    align-items: center;
+    gap:15px;    
+}       
+.imagen-cloud{
+    width: 175px;
+    border-style: solid;
+    border-radius: 5px;
+}
+.Campaña{
+    p{
+        font-size: 20px;
+    }
+    margin: 20px;
+}
+.Empleos{
+    margin: 20px;
+}
+.Empleos2{
+    font-size: 20px;
+}
+.descripciones{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.descripciones2{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.criticas{
+    p{
+        font-size: 20px;
+    }
+    margin: 20px;
+}
